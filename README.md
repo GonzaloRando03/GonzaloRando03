@@ -23,7 +23,7 @@
 
 - Desarrollo pequeños proyectos de interés personal usando Python o JavaScript
 
-- Me gusta investigar y aprender nuevas tecnologías y ponerlas a prueba
+- Me gusta investigar, aprender nuevas tecnologías y ponerlas a prueba
 
 - Puedes contactarme en gonzalorando03@gmail.com
 
